@@ -1,0 +1,14 @@
+{
+    "conversation_1": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Here is a Raven’s Progressive Matrice in a three-by-three form. You are provided with the first eight elements in eight images, please select the last one from eight choices following the structural and analogical relations. Your answer is :"
+                },
+                {"type": "image"}
+            ]
+        }
+    ]
+}
