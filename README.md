@@ -2,26 +2,26 @@
 # YAIQ
 #### YAICON 5th Multimodal Team🌟 from [YAI](https://github.com/yonsei-YAI)
 <img src="assets/YAIQ_banner.webp" alt="Banner" width="400">
----
+
 
 ## Overview
 
 This repository presents our work in solving visual IQ tests using multimodal models, including fine-tuning and evaluation processes on **LLaVA-OneVision** and **CLIP + LLM** architectures. Our methods and experiments are benchmarked on the MENSA-NORWAY dataset.
 
----
+
 
 ## 1. Fine-Tuning LLaVA-OneVision
 
 We utilized the [lmms-finetune](https://github.com/zjysteven/lmms-finetune) repository for fine-tuning **LLaVA-OneVision**.  
 A huge thanks to the contributors of this awesome repo! 🙌
 
----
+
 
 ## 2. Fine-Tuning CLIP
 
 *TBD*
 
----
+
 
 ## 3. Evaluation on MENSA-NORWAY
 
@@ -46,13 +46,12 @@ python evaluation/llava_evaluation.py \
 
 *TBD*
 
----
+
 
 ## 4. Results
 
 ![Evaluation Results](assets/results_table.png)
 
----
 
 ## 5. References & More
 
