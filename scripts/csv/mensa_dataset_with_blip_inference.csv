@@ -1,0 +1,491 @@
+index,image_path,number,text
+1,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q1/q0.jpg,q0,"3 times 3 sub - blocks with 1 object : a small black square at the top - left,"
+1,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q1/q1.jpg,q1,3 times 3 sub - blocks with 1 object : a small black square at the top - center.
+1,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q1/q2.jpg,q2,"3 times 3 sub - blocks with 2 objects : a small black square at the top - right,"
+1,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q1/q3.jpg,q3,3 times 3 sub - blocks with 1 object : a small black square at the left - center.
+1,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q1/q4.jpg,q4,3 times 3 sub - blocks with 1 object : a small black square at the center.
+1,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q1/q5.jpg,q5,"3 times 3 sub - blocks with 1 object : a small black square at the bottom - left,"
+1,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q1/q6.jpg,q6,"3 times 3 sub - blocks with 1 object : a small black square at the bottom - left,"
+1,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q1/q7.jpg,q7,3 times 3 sub - blocks with 1 object : a medium black square at the bottom - center.
+1,/home/work/yaiq/datasets/MENSA/train/Q1/A.png,A,"3 times 3 sub - blocks, 3 objects ; one small black square at the bottom - right,"
+1,/home/work/yaiq/datasets/MENSA/train/Q1/B.png,B,3 times 3 sub - blocks with 1 object ; one small black square at the bottom - left ;
+1,/home/work/yaiq/datasets/MENSA/train/Q1/C.png,C,"3 times 3 sub - blocks with 1 object : a small black square at the bottom - left,"
+1,/home/work/yaiq/datasets/MENSA/train/Q1/D.png,D,"3 times 3 sub - blocks with 1 object ; small black square at bottom - left, large white"
+1,/home/work/yaiq/datasets/MENSA/train/Q1/E.png,E,3 times 3 sub - blocks with 1 object : a small black square at the top - center.
+1,/home/work/yaiq/datasets/MENSA/train/Q1/F.png,F,3 times 3 sub - blocks with 1 object ; a small black square at the center.
+2,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q2/q0.jpg,q0,five small black circles around a medium white circle. three small black circles around the center.
+2,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q2/q1.jpg,q1,a large black circle with a cross at the center surrounded by four small black circles.
+2,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q2/q2.jpg,q2,"a medium black circle at center, surrounded by six small black circles, and a medium white square at"
+2,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q2/q3.jpg,q3,a medium black star with three notches at the center.
+2,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q2/q4.jpg,q4,a medium black circle with three notches at the center.
+2,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q2/q5.jpg,q5,a medium black star with three notches at the center.
+2,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q2/q6.jpg,q6,a medium black circle at the center inside a large white square.
+2,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q2/q7.jpg,q7,a medium white square with a small black cross at the center.
+2,/home/work/yaiq/datasets/MENSA/train/Q2/A.png,A,a medium black circle at the center inside a large white square.
+2,/home/work/yaiq/datasets/MENSA/train/Q2/B.png,B,a medium black square with three small black lines radiating from the center. the star is centered within the
+2,/home/work/yaiq/datasets/MENSA/train/Q2/C.png,C,a medium white square with a small black cross inside at the center.
+2,/home/work/yaiq/datasets/MENSA/train/Q2/D.png,D,a large white square at the center.
+2,/home/work/yaiq/datasets/MENSA/train/Q2/E.png,E,two objects : a medium white square with a small white diamond inside at the center.
+2,/home/work/yaiq/datasets/MENSA/train/Q2/F.png,F,"a medium black square with three small black circles around it, positioned at the center."
+3,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q3/q0.jpg,q0,a large white circle at the center.
+3,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q3/q1.jpg,q1,two objects : a large white circle at center with a medium black circle inside at center.
+3,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q3/q2.jpg,q2,two objects : a large white circle with a medium black cross inside at the center.
+3,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q3/q3.jpg,q3,a medium black cross at the center inside a large black square.
+3,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q3/q4.jpg,q4,a large white square at the center.
+3,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q3/q5.jpg,q5,two objects : a medium black circle inside a large white square at the center.
+3,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q3/q6.jpg,q6,a large white triangle with a medium black circle inside at the center.
+3,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q3/q7.jpg,q7,a large white triangle with a medium black cross inside at the center.
+3,/home/work/yaiq/datasets/MENSA/train/Q3/A.png,A,a medium black triangle with four small squares inside at the center.
+3,/home/work/yaiq/datasets/MENSA/train/Q3/B.png,B,a large white triangle with a small black cross inside at the center.
+3,/home/work/yaiq/datasets/MENSA/train/Q3/C.png,C,a large white triangle with a medium black circle inside at the center.
+3,/home/work/yaiq/datasets/MENSA/train/Q3/D.png,D,two objects : a medium white square outside and a medium black circle inside at center.
+3,/home/work/yaiq/datasets/MENSA/train/Q3/E.png,E,a medium black cross inside a large white square. the cross is centered within a large black square.
+3,/home/work/yaiq/datasets/MENSA/train/Q3/F.png,F,a large white triangle with a tiny black triangle inside at the top - center.
+4,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q4/q0.jpg,q0,"a medium black square at the top - left, and a medium black square at the top - right"
+4,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q4/q1.jpg,q1,a small black square at the center on a horizontal line.
+4,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q4/q2.jpg,q2,a medium black square at the top - left with a horizontal line at the middle - right.
+4,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q4/q3.jpg,q3,a large black square on a long black line at the top - left.
+4,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q4/q4.jpg,q4,a small black cross at the center.
+4,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q4/q5.jpg,q5,a small black square with a wooden handle at the bottom - left.
+4,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q4/q6.jpg,q6,a small black square on top of a large black column.
+4,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q4/q7.jpg,q7,a small black cross at the center.
+4,/home/work/yaiq/datasets/MENSA/train/Q4/A.png,A,a medium black line at the top - left and a medium black line at the bottom - right.
+4,/home/work/yaiq/datasets/MENSA/train/Q4/B.png,B,a small black cross at the center.
+4,/home/work/yaiq/datasets/MENSA/train/Q4/C.png,C,a medium black square at the end of a horizontal line.
+4,/home/work/yaiq/datasets/MENSA/train/Q4/D.png,D,a medium black square at the center.
+4,/home/work/yaiq/datasets/MENSA/train/Q4/E.png,E,a medium black square with a horizontal line at the top - left.
+4,/home/work/yaiq/datasets/MENSA/train/Q4/F.png,F,"a medium black line at the top - left, a small black square at the bottom - left,"
+5,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q5/q0.jpg,q0,"a medium black line at the center, pointing down from the top."
+5,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q5/q1.jpg,q1,a black line at the top - left and a black line at the bottom - right.
+5,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q5/q2.jpg,q2,a black arrow with a horizontal line at the center.
+5,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q5/q3.jpg,q3,"a black cross at the top, bottom, and middle."
+5,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q5/q4.jpg,q4,a black line at the center with a black cross inside.
+5,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q5/q5.jpg,q5,a small black line with two notches at the center.
+5,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q5/q6.jpg,q6,"a medium black vertical line with three notches at the top, positioned at the center."
+5,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q5/q7.jpg,q7,a black line with a t at the bottom - left and a black line with a t at the
+5,/home/work/yaiq/datasets/MENSA/train/Q5/A.png,A,a black line with two notches at the center. a black line with two notches at the
+5,/home/work/yaiq/datasets/MENSA/train/Q5/B.png,B,a small black arrow at the center - right.
+5,/home/work/yaiq/datasets/MENSA/train/Q5/C.png,C,a black line at the center with one end split by a horizontal line. the line is tilted slightly
+5,/home/work/yaiq/datasets/MENSA/train/Q5/D.png,D,a small black arrow at the center.
+5,/home/work/yaiq/datasets/MENSA/train/Q5/E.png,E,a black line at the top - left and a black line at the bottom - right with a small
+5,/home/work/yaiq/datasets/MENSA/train/Q5/F.png,F,a small black line with two notches at the center.
+6,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q6/q0.jpg,q0,a small black square at the top - left and a small black square at the top - right.
+6,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q6/q1.jpg,q1,"3 times 3 sub - blocks with 4 objects : a small black square at the top - left,"
+6,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q6/q2.jpg,q2,three squares ; three black squares stacked vertically in the center.
+6,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q6/q3.jpg,q3,"3 objects : 3 squares, 2 squares ; black colour ; medium size ; arranged in 2 times 2"
+6,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q6/q4.jpg,q4,3 objects : 4 medium black squares in a 2x2 sub - blocks.
+6,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q6/q5.jpg,q5,"a medium black square at the top - left, top - center, bottom - left, and bottom"
+6,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q6/q6.jpg,q6,"3 times 3 sub - blocks with 4 objects : a black square at left - bottom, a black"
+6,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q6/q7.jpg,q7,"split by 3 rays from the center, 4 black squares in a 2 times 2 sub - block pattern"
+6,/home/work/yaiq/datasets/MENSA/train/Q6/A.png,A,a medium blue square at bottom - left ; four medium black squares in a row ; one at top
+6,/home/work/yaiq/datasets/MENSA/train/Q6/B.png,B,three squares and one square ; three black squares stacked vertically in a vertical line at the bottom.
+6,/home/work/yaiq/datasets/MENSA/train/Q6/C.png,C,"three objects : three medium black squares stacked in a triangular formation at the bottom, one at the bottom"
+6,/home/work/yaiq/datasets/MENSA/train/Q6/D.png,D,"three medium black squares in a row at the bottom, bottom - left, bottom - center, and"
+6,/home/work/yaiq/datasets/MENSA/train/Q6/E.png,E,"a medium white square at the top - right, a medium black square at the top - left,"
+6,/home/work/yaiq/datasets/MENSA/train/Q6/F.png,F,"5 objects : all 4 squares ; one tiny white triangle at top, one medium black square at center"
+7,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q7/q0.jpg,q0,"3 times 3 sub - blocks, 3 objects : a small black square at the bottom - right,"
+7,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q7/q1.jpg,q1,"3 times 3 sub - blocks with 5 objects : a small black square at the left - center,"
+7,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q7/q2.jpg,q2,3 times 3 sub - blocks with 4 objects. two small black squares at the top - left and
+7,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q7/q3.jpg,q3,"3 times 3 sub - blocks with 3 objects : a small black square at the left - top,"
+7,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q7/q4.jpg,q4,3 times 3 sub - blocks with 4 objects. two small black squares at the top - left and
+7,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q7/q5.jpg,q5,"3 times 3 sub - blocks with 8 objects. large black and white square at top - left,"
+7,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q7/q6.jpg,q6,3 times 3 sub - blocks with 4 objects. two small black squares at the top - left and
+7,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q7/q7.jpg,q7,3 times 3 sub - blocks with 9 objects ; all are medium black squares ; one at top -
+7,/home/work/yaiq/datasets/MENSA/train/Q7/A.png,A,"3 times 3 sub - blocks with 9 objects ; medium black square at top - left, medium black"
+7,/home/work/yaiq/datasets/MENSA/train/Q7/B.png,B,"3 times 3 sub - blocks with 9 objects ; medium black square at top - left, medium black"
+7,/home/work/yaiq/datasets/MENSA/train/Q7/C.png,C,"3 times 3 sub - blocks with 6 objects ; medium black square at top - left, medium black"
+7,/home/work/yaiq/datasets/MENSA/train/Q7/D.png,D,"3 times 3 sub - blocks with 6 objects ; one small black square at top - center, one"
+7,/home/work/yaiq/datasets/MENSA/train/Q7/E.png,E,3 times 3 sub - blocks with 6 objects ; all are medium black squares ; one at top -
+7,/home/work/yaiq/datasets/MENSA/train/Q7/F.png,F,"6 objects ; 8 squares, 2 times 2 sub - blocks ; black and white ; medium size ;"
+8,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q8/q0.jpg,q0,a medium black letter made of nine small black circles.
+8,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q8/q1.jpg,q1,"nine medium black circles arranged in a triangular pattern with one at the top - left, one at the"
+8,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q8/q2.jpg,q2,a large group of nine black circles arranged in a triangular pattern.
+8,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q8/q3.jpg,q3,seven objects : all medium black circles arranged in a cross shape at the center.
+8,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q8/q4.jpg,q4,nine medium black circles arranged in a horizontal pattern with the top row tilted down and the bottom row tilted
+8,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q8/q5.jpg,q5,a medium black circle pattern with eight small black circles around it.
+8,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q8/q6.jpg,q6,nine medium black circles arranged in a 2 times 2 sub - block.
+8,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q8/q7.jpg,q7,a medium black triangle with eight small black circles arranged in it.
+8,/home/work/yaiq/datasets/MENSA/train/Q8/A.png,A,a large black letter made of medium black circles at the center.
+8,/home/work/yaiq/datasets/MENSA/train/Q8/B.png,B,a large black triangle with seven small black circles around it.
+8,/home/work/yaiq/datasets/MENSA/train/Q8/C.png,C,a medium black triangle made of six medium black circles.
+8,/home/work/yaiq/datasets/MENSA/train/Q8/D.png,D,seven medium black circles arranged in a triangle formation at the center.
+8,/home/work/yaiq/datasets/MENSA/train/Q8/E.png,E,"a large black circle at the top - center, a large black circle at the bottom - left,"
+8,/home/work/yaiq/datasets/MENSA/train/Q8/F.png,F,a large black triangle with seven small black circles around it.
+9,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q9/q0.jpg,q0,"3 objects : a small black circle at the top - left, a small white square at the top"
+9,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q9/q1.jpg,q1,"3 objects : a small black circle at the top, a small black square at the bottom - left"
+9,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q9/q2.jpg,q2,"4 objects : a small black circle at the top, a small black square at the bottom - left"
+9,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q9/q3.jpg,q3,"3 objects : a small black circle at the bottom - left, a small black circle at the bottom"
+9,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q9/q4.jpg,q4,"split by 3 rays from the center, a black circle at center, a black line at top,"
+9,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q9/q5.jpg,q5,"3 objects : a medium black circle at center, a medium black square at bottom - left, and"
+9,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q9/q6.jpg,q6,"3 objects : a medium black square at the top, a small black circle at the bottom - right"
+9,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q9/q7.jpg,q7,"3 objects : a medium black circle at center, a medium black square at bottom - right, and"
+9,/home/work/yaiq/datasets/MENSA/train/Q9/A.png,A,"split by 3 rays from the center, a black line at the bottom from the center to the bottom"
+9,/home/work/yaiq/datasets/MENSA/train/Q9/B.png,B,"4 objects ; 4 small black circles, 1 small black square, and 1 small black square ; small"
+9,/home/work/yaiq/datasets/MENSA/train/Q9/C.png,C,"split by 3 rays from the center, a black line at the center with a small black circle at"
+9,/home/work/yaiq/datasets/MENSA/train/Q9/D.png,D,"3 objects ; 4 squares, 1 circle ; black colour, medium size ; 4 squares at the bottom"
+9,/home/work/yaiq/datasets/MENSA/train/Q9/E.png,E,"3 objects : a medium white square at the top, a small black circle at the bottom - left"
+9,/home/work/yaiq/datasets/MENSA/train/Q9/F.png,F,"4 objects ; 4 small black circles, 1 small black square, 1 small black square, 3 small"
+10,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q10/q0.jpg,q0,a medium black triangle with white border at the center.
+10,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q10/q1.jpg,q1,a large white and black triangle at the center.
+10,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q10/q2.jpg,q2,a large black and white triangle at the center.
+10,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q10/q3.jpg,q3,a large white and black triangle at the center.
+10,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q10/q4.jpg,q4,a medium black and white triangle with a notch at the center.
+10,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q10/q5.jpg,q5,a large black triangle with white border at the center.
+10,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q10/q6.jpg,q6,a medium black and white triangle split by 3 rays from the center.
+10,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q10/q7.jpg,q7,a large black triangle with one notch at the center.
+10,/home/work/yaiq/datasets/MENSA/train/Q10/A.png,A,a large black triangle at the center.
+10,/home/work/yaiq/datasets/MENSA/train/Q10/B.png,B,a medium black triangle with one notch at center.
+10,/home/work/yaiq/datasets/MENSA/train/Q10/C.png,C,a medium white triangle with black inside at the center.
+10,/home/work/yaiq/datasets/MENSA/train/Q10/D.png,D,a medium black triangle with one notch at the top center.
+10,/home/work/yaiq/datasets/MENSA/train/Q10/E.png,E,a large black triangle with white inside at the center.
+10,/home/work/yaiq/datasets/MENSA/train/Q10/F.png,F,two objects : a large white and black triangle with a black border at the top - left and a
+11,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q11/q0.jpg,q0,a large white oval at the center.
+11,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q11/q1.jpg,q1,a large white square with a black border at the center.
+11,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q11/q2.jpg,q2,a large white square at the center.
+11,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q11/q3.jpg,q3,a small black circle at the center inside an oval.
+11,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q11/q4.jpg,q4,"two objects : a medium black circle inside a large white square, centered."
+11,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q11/q5.jpg,q5,a large white circle with a black border at the center inside a large white square.
+11,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q11/q6.jpg,q6,a small black circle at the center.
+11,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q11/q7.jpg,q7,a small black circle at center inside a large black circle.
+11,/home/work/yaiq/datasets/MENSA/train/Q11/A.png,A,a small white circle at the center.
+11,/home/work/yaiq/datasets/MENSA/train/Q11/B.png,B,a small black circle at the center inside an oval.
+11,/home/work/yaiq/datasets/MENSA/train/Q11/C.png,C,a small black oval at the center.
+11,/home/work/yaiq/datasets/MENSA/train/Q11/D.png,D,a small black circle at the center.
+11,/home/work/yaiq/datasets/MENSA/train/Q11/E.png,E,a large white square with a large black oval at the center.
+11,/home/work/yaiq/datasets/MENSA/train/Q11/F.png,F,a large white square at the center.
+12,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q12/q0.jpg,q0,a large black and white square with one notch at the center.
+12,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q12/q1.jpg,q1,a large white square with a medium light gray triangle at the center.
+12,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q12/q2.jpg,q2,a large black and white square with a diagonal line at the center.
+12,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q12/q3.jpg,q3,a large black and white square with one notch at the center.
+12,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q12/q4.jpg,q4,a large black and white square with one notch at the center.
+12,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q12/q5.jpg,q5,a large white square with a medium light gray triangle at the center.
+12,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q12/q6.jpg,q6,a large light gray triangle at the center inside a large black square.
+12,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q12/q7.jpg,q7,a large black and white square with one notch at the center.
+12,/home/work/yaiq/datasets/MENSA/train/Q12/A.png,A,a large black and white square with one notch at the center.
+12,/home/work/yaiq/datasets/MENSA/train/Q12/B.png,B,a medium black square with one notch at the center.
+12,/home/work/yaiq/datasets/MENSA/train/Q12/C.png,C,a medium light gray triangle at the center inside a large black square.
+12,/home/work/yaiq/datasets/MENSA/train/Q12/D.png,D,a medium black square with one notch at the center.
+12,/home/work/yaiq/datasets/MENSA/train/Q12/E.png,E,a large light gray triangle at the center inside a large black square.
+12,/home/work/yaiq/datasets/MENSA/train/Q12/F.png,F,a large black and white square at the center.
+13,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q13/q0.jpg,q0,a large black circle at the center.
+13,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q13/q1.jpg,q1,a large white triangle at the center.
+13,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q13/q2.jpg,q2,a large gray square at the center.
+13,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q13/q3.jpg,q3,a medium gray triangle at the center.
+13,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q13/q4.jpg,q4,a large black square at the center.
+13,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q13/q5.jpg,q5,a large white circle at center.
+13,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q13/q6.jpg,q6,a large white square at the center.
+13,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q13/q7.jpg,q7,a large gray circle at center.
+13,/home/work/yaiq/datasets/MENSA/train/Q13/A.png,A,a large gray square at the center.
+13,/home/work/yaiq/datasets/MENSA/train/Q13/B.png,B,a large black triangle at the center.
+13,/home/work/yaiq/datasets/MENSA/train/Q13/C.png,C,a medium black square at the center.
+13,/home/work/yaiq/datasets/MENSA/train/Q13/D.png,D,a large white square at the center.
+13,/home/work/yaiq/datasets/MENSA/train/Q13/E.png,E,a large white triangle with a black outline at the top - center and a small black triangle at the
+13,/home/work/yaiq/datasets/MENSA/train/Q13/F.png,F,a large gray triangle at the center.
+14,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q14/q0.jpg,q0,a black circle with a horizontal line inside at the center.
+14,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q14/q1.jpg,q1,a medium white square at the center with three small black lines intersecting it.
+14,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q14/q2.jpg,q2,"a black triangle with a vertical line at the top - center and inside, a black triangle with a"
+14,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q14/q3.jpg,q3,"three objects : a large black triangle with two horizontal lines at the center, positioned at the top center"
+14,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q14/q4.jpg,q4,a large black circle with a vertical line at the center.
+14,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q14/q5.jpg,q5,a black line at the center of a white square. no object is in the image.
+14,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q14/q6.jpg,q6,a medium black cross at the center inside a medium black square.
+14,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q14/q7.jpg,q7,two black triangles with lines inside at the center.
+14,/home/work/yaiq/datasets/MENSA/train/Q14/A.png,A,a large black circle with a horizontal line at the center.
+14,/home/work/yaiq/datasets/MENSA/train/Q14/B.png,B,"a medium black triangle at the top, a horizontal line at the bottom, and a small black triangle"
+14,/home/work/yaiq/datasets/MENSA/train/Q14/C.png,C,a medium black circle with a single line inside at the center.
+14,/home/work/yaiq/datasets/MENSA/train/Q14/D.png,D,a medium black circle with a horizontal line at the center.
+14,/home/work/yaiq/datasets/MENSA/train/Q14/E.png,E,"a small black line at the top - left and a medium black square below it, both centered within"
+14,/home/work/yaiq/datasets/MENSA/train/Q14/F.png,F,a medium black square at the center with three lines intersecting it.
+15,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q15/q0.jpg,q0,a medium black triangle at the center with a small black circle inside at the bottom - left.
+15,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q15/q1.jpg,q1,"three medium black circles inside a triangle ; three at top - left, one at bottom - right,"
+15,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q15/q2.jpg,q2,a medium black triangle with three small black circles inside at the center.
+15,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q15/q3.jpg,q3,"three medium black circles inside a triangle, positioned in a triangle shape with one at the top - right"
+15,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q15/q4.jpg,q4,a large black triangle with two small black circles inside at the center.
+15,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q15/q5.jpg,q5,a small black circle at center inside a triangle with a horizontal line separating it and the center.
+15,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q15/q6.jpg,q6,a medium black triangle with two small black circles inside at the center.
+15,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q15/q7.jpg,q7,"a large black triangle with one small black circle inside, positioned slightly to the right."
+15,/home/work/yaiq/datasets/MENSA/train/Q15/A.png,A,"split by 3 rays from the center, a black triangle at center with three small black circles inside,"
+15,/home/work/yaiq/datasets/MENSA/train/Q15/B.png,B,a medium black triangle with two small black circles inside at the center.
+15,/home/work/yaiq/datasets/MENSA/train/Q15/C.png,C,"a medium black triangle with two small black circles inside, one at the top and one at the bottom"
+15,/home/work/yaiq/datasets/MENSA/train/Q15/D.png,D,"split by 3 rays from the center, a black triangle with two notches at the top and three"
+15,/home/work/yaiq/datasets/MENSA/train/Q15/E.png,E,"three objects : three medium black circles inside one triangle, one at the top and one at the bottom"
+15,/home/work/yaiq/datasets/MENSA/train/Q15/F.png,F,"a medium black triangle with three medium black circles inside at the bottom - left, bottom - left,"
+16,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q16/q0.jpg,q0,"a medium black circle with two notches at the top and inside is an arch, a small black"
+16,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q16/q1.jpg,q1,"split by 3 rays from the center, a black line at top and inside is a black circle with"
+16,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q16/q2.jpg,q2,a medium black half circle with a single black line split by 3 rays from the center.
+16,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q16/q3.jpg,q3,"a medium black half circle with a wooden handle at the top, split by 3 rays from the center"
+16,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q16/q4.jpg,q4,a medium black half circle and a medium black line split by 3 rays from the center.
+16,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q16/q5.jpg,q5,a medium black circle with two notches at the center and a single notch at the top.
+16,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q16/q6.jpg,q6,"split by 3 rays from the center, a black line at the top and inside is a white line"
+16,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q16/q7.jpg,q7,a medium black umbrella with a wooden handle at the top - left.
+16,/home/work/yaiq/datasets/MENSA/train/Q16/A.png,A,a medium black circle with two notches at the center and a small black line at the bottom -
+16,/home/work/yaiq/datasets/MENSA/train/Q16/B.png,B,a medium black circle with two notches at the center.
+16,/home/work/yaiq/datasets/MENSA/train/Q16/C.png,C,a medium black circle with two notches at the center and a large black line in the middle.
+16,/home/work/yaiq/datasets/MENSA/train/Q16/D.png,D,"a medium black circle with two notches at the center, positioned slightly to the right with one notch"
+16,/home/work/yaiq/datasets/MENSA/train/Q16/E.png,E,a medium black circle with two notches at the center and a large black line across the top -
+16,/home/work/yaiq/datasets/MENSA/train/Q16/F.png,F,"a black line at the top - left and inside - right, a medium black line at the top"
+17,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q17/q0.jpg,q0,a large black circle with a small white circle at the center.
+17,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q17/q1.jpg,q1,a large black circle with a small white circle at the center inside.
+17,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q17/q2.jpg,q2,"a large black circle with a small white circle and a small white circle inside, positioned slightly to the"
+17,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q17/q3.jpg,q3,"a large black circle with a small white circle inside, positioned at the center."
+17,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q17/q4.jpg,q4,"a large black circle with a single small black line inside, positioned at the center."
+17,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q17/q5.jpg,q5,"a large black circle with a single small black line in the center, positioned slightly to the right."
+17,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q17/q6.jpg,q6,"a large black circle with a small white circle and a small white circle inside, positioned slightly to the"
+17,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q17/q7.jpg,q7,"a small white circle with a black line at the center, and a small white circle inside it,"
+17,/home/work/yaiq/datasets/MENSA/train/Q17/A.png,A,a medium black circle with a single small white circle inside at the center.
+17,/home/work/yaiq/datasets/MENSA/train/Q17/B.png,B,"a large black circle with a small white circle and a small white circle inside, positioned slightly to the"
+17,/home/work/yaiq/datasets/MENSA/train/Q17/C.png,C,a small white circle with a black line at the center.
+17,/home/work/yaiq/datasets/MENSA/train/Q17/D.png,D,"a large black circle with a small white circle inside, connected by a small white line with a small"
+17,/home/work/yaiq/datasets/MENSA/train/Q17/E.png,E,"a medium black circle with a single small gray circle inside at the top, and a small gray circle"
+17,/home/work/yaiq/datasets/MENSA/train/Q17/F.png,F,a medium black circle with a small white circle inside at the center with a small white circle inside with
+18,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q18/q0.jpg,q0,"two black lines ; a small horizontal line at the center, a small horizontal line at the top -"
+18,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q18/q1.jpg,q1,two small black lines split by 3 rays from the center.
+18,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q18/q2.jpg,q2,"split by 3 rays from the center, a black line at the top center and a black line at"
+18,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q18/q3.jpg,q3,a medium black cross at the center.
+18,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q18/q4.jpg,q4,a medium black cross at the center.
+18,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q18/q5.jpg,q5,"3 times 3 sub - blocks, 3 objects ; medium black line at the top - left, medium"
+18,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q18/q6.jpg,q6,two black vertical lines split by a horizontal line.
+18,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q18/q7.jpg,q7,two black lines split by a horizontal line. the lines are vertically aligned and horizontally aligned next to each
+18,/home/work/yaiq/datasets/MENSA/train/Q18/A.png,A,a medium black cross at the center.
+18,/home/work/yaiq/datasets/MENSA/train/Q18/B.png,B,"a large white square with three horizontal lines ; one at top, one at bottom, and one at"
+18,/home/work/yaiq/datasets/MENSA/train/Q18/C.png,C,"3 times 3 sub - blocks, 3 lines from the center. top row : left row : black"
+18,/home/work/yaiq/datasets/MENSA/train/Q18/D.png,D,"split by 3 rays from the center, a small white circle at top, a small white circle at"
+18,/home/work/yaiq/datasets/MENSA/train/Q18/E.png,E,three black vertical lines in a vertical line from the top to the bottom. the lines are of equal
+18,/home/work/yaiq/datasets/MENSA/train/Q18/F.png,F,a medium black grid with three notches at the top - left and bottom - left.
+19,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q19/q0.jpg,q0,a large white square with a black border at the center.
+19,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q19/q1.jpg,q1,"5 objects : all medium black circles ; all at the top - left, bottom - left, and"
+19,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q19/q2.jpg,q2,a medium black cross at the center.
+19,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q19/q3.jpg,q3,"4 objects : all circles ; medium black circle at top - left, medium black circle at top -"
+19,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q19/q4.jpg,q4,"a black cross at the center of a black diamond, with one line at the top and bottom,"
+19,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q19/q5.jpg,q5,a large white square with a medium black hollow circle at the center.
+19,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q19/q6.jpg,q6,"split by 3 rays from the center, a black cross with a small black circle at the top,"
+19,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q19/q7.jpg,q7,a large white square at the center.
+19,/home/work/yaiq/datasets/MENSA/train/Q19/A.png,A,"a large black diamond at center, six small black circles surrounding it, and one large black circle at"
+19,/home/work/yaiq/datasets/MENSA/train/Q19/B.png,B,"3 times 3 sub - blocks with 4 objects : a small black cross at the top - left,"
+19,/home/work/yaiq/datasets/MENSA/train/Q19/C.png,C,a medium black diamond at the center.
+19,/home/work/yaiq/datasets/MENSA/train/Q19/D.png,D,a medium black hollow circle at the bottom - left.
+19,/home/work/yaiq/datasets/MENSA/train/Q19/E.png,E,"a medium black cross at center inside a medium white square, positioned at the center with three small squares"
+19,/home/work/yaiq/datasets/MENSA/train/Q19/F.png,F,a large black circle at the center with 8 objects surrounding it.
+20,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q20/q0.jpg,q0,a large white square with a horizontal line at the center.
+20,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q20/q1.jpg,q1,a large black z line at the center.
+20,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q20/q2.jpg,q2,a large white square with a diagonal black line at the center.
+20,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q20/q3.jpg,q3,a medium white square with a diagonal line at the center.
+20,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q20/q4.jpg,q4,a medium white triangle with a black line at the center.
+20,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q20/q5.jpg,q5,two black lines split by a horizontal line at the center.
+20,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q20/q6.jpg,q6,a medium white triangle with black outline at the center.
+20,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q20/q7.jpg,q7,a medium black square at center with two intersecting lines inside.
+20,/home/work/yaiq/datasets/MENSA/train/Q20/A.png,A,a small black triangle at the center inside a large white square.
+20,/home/work/yaiq/datasets/MENSA/train/Q20/B.png,B,a medium black square with two diagonal lines at the center.
+20,/home/work/yaiq/datasets/MENSA/train/Q20/C.png,C,a medium white triangle with black lines at the center.
+20,/home/work/yaiq/datasets/MENSA/train/Q20/D.png,D,a medium black triangle at the center with one notch in the middle.
+20,/home/work/yaiq/datasets/MENSA/train/Q20/E.png,E,a medium white square with a diagonal line at the center.
+20,/home/work/yaiq/datasets/MENSA/train/Q20/F.png,F,"a large white triangle with a black line at the center, and a tiny black line at the top"
+21,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q21/q0.jpg,q0,a medium white square with two vertical lines at the center.
+21,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q21/q1.jpg,q1,a small black line at the center.
+21,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q21/q2.jpg,q2,a large white square with four sections at the center.
+21,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q21/q3.jpg,q3,two objects : a medium black rectangle at the bottom - left and a medium black rectangle at
+21,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q21/q4.jpg,q4,"two objects : a large white square at the center, both sections are centered vertically."
+21,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q21/q5.jpg,q5,two objects : a small black line at the top - left and a small black line at the bottom
+21,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q21/q6.jpg,q6,"3 objects : 3 squares, 2 squares and 1 square ; all squares are medium size, white background"
+21,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q21/q7.jpg,q7,a large white square at the center.
+21,/home/work/yaiq/datasets/MENSA/train/Q21/A.png,A,two objects : a small black line at the bottom - left and a small black line at the bottom
+21,/home/work/yaiq/datasets/MENSA/train/Q21/B.png,B,"3 objects : 3 squares, 1 square, and 1 square ; black outline, white fill, medium"
+21,/home/work/yaiq/datasets/MENSA/train/Q21/C.png,C,"two objects : a large white square with two notches at the center, and a large white square"
+21,/home/work/yaiq/datasets/MENSA/train/Q21/D.png,D,"a medium black t - shape at the center, positioned at the top center and bottom - left."
+21,/home/work/yaiq/datasets/MENSA/train/Q21/E.png,E,a medium white square with four sections at the center.
+21,/home/work/yaiq/datasets/MENSA/train/Q21/F.png,F,a medium black cross at the center.
+22,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q22/q0.jpg,q0,"split by 3 rays from the center, a small white square at top, a small light gray circle"
+22,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q22/q1.jpg,q1,"three objects : a medium white square at top, a small white square at center, a small gray"
+22,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q22/q2.jpg,q2,"split by 3 rays from the center, a medium gray circle at the top, a medium white square"
+22,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q22/q3.jpg,q3,"4 objects : a medium white square at top - left, a medium light gray circle at center,"
+22,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q22/q4.jpg,q4,"three objects : a black line with three squares and a medium gray circle at the bottom - left,"
+22,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q22/q5.jpg,q5,"three objects : a horizontal line with three objects : a small white square at the top, a small"
+22,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q22/q6.jpg,q6,"three objects : a small white square at the top, a small light gray circle at the center,"
+22,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q22/q7.jpg,q7,"three objects : a small black square at the top, a small black square at the bottom - left"
+22,/home/work/yaiq/datasets/MENSA/train/Q22/A.png,A,"3 times 3 sub - blocks with 4 objects, medium light gray circle at top - left, medium"
+22,/home/work/yaiq/datasets/MENSA/train/Q22/B.png,B,"split by 3 rays from the center, a black line with a white square at the top, a"
+22,/home/work/yaiq/datasets/MENSA/train/Q22/C.png,C,"a medium gray circle at the top - center, a small white square at the top - right,"
+22,/home/work/yaiq/datasets/MENSA/train/Q22/D.png,D,"3 times 3 sub - blocks with 3 objects ; small white square at top, large white squares at"
+22,/home/work/yaiq/datasets/MENSA/train/Q22/E.png,E,"three objects : a medium light gray circle at the top, a small white square at the bottom,"
+22,/home/work/yaiq/datasets/MENSA/train/Q22/F.png,F,"3 times 3 sub - blocks with 3 objects ; medium light gray circle at top - left, medium"
+23,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q23/q0.jpg,q0,"three objects : a large black square, a large black circle, and a large white triangle ; all"
+23,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q23/q1.jpg,q1,"three objects : a large black circle at left, a large white square at center, and a large"
+23,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q23/q2.jpg,q2,"three triangles ; one large white triangle at top, one medium white triangle at left, one medium black"
+23,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q23/q3.jpg,q3,"a large white square at the top - left, a medium black triangle at the center, and a"
+23,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q23/q4.jpg,q4,"three triangles ; one large black circle at center, one large white triangle at bottom - left, one"
+23,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q23/q5.jpg,q5,"three objects : a large black circle at left, a large black triangle at center, and a large"
+23,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q23/q6.jpg,q6,"three objects : a large black circle at left, a medium black triangle at right, and a medium"
+23,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q23/q7.jpg,q7,"3 objects ; one small white triangle at left, one medium black square at right, one medium black"
+23,/home/work/yaiq/datasets/MENSA/train/Q23/A.png,A,"three objects : a large black square, a large black circle, and a large white triangle ; both"
+23,/home/work/yaiq/datasets/MENSA/train/Q23/B.png,B,"3 objects : a medium white square at top - left, a medium black triangle at center, a"
+23,/home/work/yaiq/datasets/MENSA/train/Q23/C.png,C,"three objects : a large black square at the top, a medium black triangle at the center, and"
+23,/home/work/yaiq/datasets/MENSA/train/Q23/D.png,D,"three objects : one large black square, one medium black triangle, and one medium black circle ; both"
+23,/home/work/yaiq/datasets/MENSA/train/Q23/E.png,E,"three objects : a large white triangle at top, a large black circle at left, and a large"
+23,/home/work/yaiq/datasets/MENSA/train/Q23/F.png,F,"three objects ; one large black triangle, one large black circle, and one medium white square ; shapes"
+24,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q24/q0.jpg,q0,"split by 3 rays from the center, a black line at the center and a black line at the"
+24,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q24/q1.jpg,q1,a small black square with a small black line at the center.
+24,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q24/q2.jpg,q2,a large black hollow circle with three notches at the center.
+24,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q24/q3.jpg,q3,"split by 3 rays from the center, a black cross at the center with a small black circle at"
+24,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q24/q4.jpg,q4,a medium black circle with eight evenly spaced lines radiating from the center. the lines are of equal length
+24,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q24/q5.jpg,q5,"split by 3 rays from the center, a black cross with a black circle at the center."
+24,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q24/q6.jpg,q6,"split by 3 rays from the center, a black circle with three notches at the center."
+24,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q24/q7.jpg,q7,"split by 3 rays from the center, a black hollow circle at the center with three lines surrounding it"
+24,/home/work/yaiq/datasets/MENSA/train/Q24/A.png,A,"split by 3 rays from the center, a black circle with three notches at the center."
+24,/home/work/yaiq/datasets/MENSA/train/Q24/B.png,B,a medium black clock with a vertical line at the center.
+24,/home/work/yaiq/datasets/MENSA/train/Q24/C.png,C,"a medium black line with a small black circle at the center, split by a horizontal line."
+24,/home/work/yaiq/datasets/MENSA/train/Q24/D.png,D,a medium black circle with three notches at the center.
+24,/home/work/yaiq/datasets/MENSA/train/Q24/E.png,E,"split by 3 rays from the center, a small black line at the top - left, and a"
+24,/home/work/yaiq/datasets/MENSA/train/Q24/F.png,F,"split by 3 rays from the center, a black line at the center and inside is a small black"
+25,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q25/q0.jpg,q0,"three objects : one medium black circle at top - left, one medium black circle at top - right"
+25,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q25/q1.jpg,q1,"4 objects : 4 circles, 1 circle, 1 circle ; all objects are black ; medium size ;"
+25,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q25/q2.jpg,q2,"three objects : one black circle at top - left, one black hollow circle at center, one black"
+25,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q25/q3.jpg,q3,four black hollow circles and two black circles inside a large white square. two small black circles at the
+25,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q25/q4.jpg,q4,"three objects : one medium black hollow circle at top - left, one medium black hollow circle at top"
+25,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q25/q5.jpg,q5,two black hollow circles and one black circle inside a large white square. the circle is at the top
+25,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q25/q6.jpg,q6,"three objects : one medium black circle at top - right, one medium black hollow circle at bottom -"
+25,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q25/q7.jpg,q7,a large white square with a small black circle at bottom - left and a small black circle inside at
+25,/home/work/yaiq/datasets/MENSA/train/Q25/A.png,A,"3 circles ; medium black hollow circles at top - left, medium black hollow circles at top - right"
+25,/home/work/yaiq/datasets/MENSA/train/Q25/B.png,B,a large white square with two small black circles inside ; a medium black circle at the top - left
+25,/home/work/yaiq/datasets/MENSA/train/Q25/C.png,C,"two small black circles inside a large white square. two small black circles near the top - right,"
+25,/home/work/yaiq/datasets/MENSA/train/Q25/D.png,D,3 objects : 3 circles and 1 circle inside a large white square ; 1 circle at top - left
+25,/home/work/yaiq/datasets/MENSA/train/Q25/E.png,E,"a medium white square with a medium white circle at the bottom inside, positioned at the center."
+25,/home/work/yaiq/datasets/MENSA/train/Q25/F.png,F,"3 objects : 3 medium black hollow circles at top - left, 2 medium black hollow circles at center"
+26,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q26/q0.jpg,q0,"three objects : one medium black circle with three small black circles inside, one at top - left,"
+26,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q26/q1.jpg,q1,"three objects : one medium black circle with three small black circles inside, and one medium black circle with"
+26,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q26/q2.jpg,q2,"a large black circle with a small black circle inside at the top, and a small black circle inside"
+26,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q26/q3.jpg,q3,"a large white circle with three small circles inside, separated by a cross with two black lines."
+26,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q26/q4.jpg,q4,"a large black circle with three small black circles inside, separated by a cross."
+26,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q26/q5.jpg,q5,a medium black circle with a single black circle inside and a horizontal black line at the top inside.
+26,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q26/q6.jpg,q6,a large black circle with a small black circle inside at the center with a cross and a small black
+26,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q26/q7.jpg,q7,a large black circle with two crosses at the center and a small black circle inside it at the bottom
+26,/home/work/yaiq/datasets/MENSA/train/Q26/A.png,A,"two objects : a medium black circle inside a large black circle, centered."
+26,/home/work/yaiq/datasets/MENSA/train/Q26/B.png,B,"a large black circle with a single line and a small black circle inside, positioned at the center with"
+26,/home/work/yaiq/datasets/MENSA/train/Q26/C.png,C,"split by 3 rays from the center, a large black circle with three small black circles inside, and"
+26,/home/work/yaiq/datasets/MENSA/train/Q26/D.png,D,"split by 3 rays from the center, a large black circle with three small black circles inside, and"
+26,/home/work/yaiq/datasets/MENSA/train/Q26/E.png,E,a large black circle with three small circles inside ; a large black circle with three small circles inside at
+26,/home/work/yaiq/datasets/MENSA/train/Q26/F.png,F,a medium black circle with a small black circle inside and a small black circle with a small black line
+27,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q27/q0.jpg,q0,"split by 3 rays from the center, a black line at the center and a white circle inside at"
+27,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q27/q1.jpg,q1,"split by 3 rays from the center, a black hollow circle at center and a black line extending from"
+27,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q27/q2.jpg,q2,"split by 3 rays from the center, a black hollow circle at center and two black lines extending from"
+27,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q27/q3.jpg,q3,"split by 3 rays from the center, a black hollow circle at the top and inside is a white"
+27,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q27/q4.jpg,q4,"split by 3 rays from the center, a white circle at center and two black lines extending from the"
+27,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q27/q5.jpg,q5,a black circle with two notches at the center.
+27,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q27/q6.jpg,q6,"split by 3 rays from the center, a black circle at center and two black lines extending from the"
+27,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q27/q7.jpg,q7,"a black circle and two black lines at the top, with a small black circle centered inside at the"
+27,/home/work/yaiq/datasets/MENSA/train/Q27/A.png,A,"split by 3 rays from the center, a black line with a black circle at the top, and"
+27,/home/work/yaiq/datasets/MENSA/train/Q27/B.png,B,"split by 3 rays from the center, a black hollow circle at the center and a black line extending"
+27,/home/work/yaiq/datasets/MENSA/train/Q27/C.png,C,"split by 3 rays from the center, a black hollow circle at center and inside is a black line"
+27,/home/work/yaiq/datasets/MENSA/train/Q27/D.png,D,"split by 3 rays from the center, a black hollow circle at center and two black lines extending from"
+27,/home/work/yaiq/datasets/MENSA/train/Q27/E.png,E,"split by 3 rays from the center, a black hollow circle at center and two black lines extending from"
+27,/home/work/yaiq/datasets/MENSA/train/Q27/F.png,F,"a medium black circle with two notches at the center, positioned at the bottom of the necklace."
+28,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q28/q0.jpg,q0,two objects : a small black line at the top - left and a small black line at the top
+28,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q28/q1.jpg,q1,a medium black triangle with a small black line at the center.
+28,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q28/q2.jpg,q2,"split by 3 rays from the center, a black line at the center and inside is a small black"
+28,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q28/q3.jpg,q3,"two objects : a small black line at the center, and a small black line at the left -"
+28,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q28/q4.jpg,q4,"two black lines split by 3 rays from the center, positioned diagonally and horizontally."
+28,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q28/q5.jpg,q5,a medium black triangle with a vertical line inside a large white square at the center.
+28,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q28/q6.jpg,q6,two black lines split by a notch ; large at the top - left and top - right.
+28,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q28/q7.jpg,q7,a medium black triangle at the top - left and a small black square at the bottom - right.
+28,/home/work/yaiq/datasets/MENSA/train/Q28/A.png,A,a medium black triangle with three notches at the center.
+28,/home/work/yaiq/datasets/MENSA/train/Q28/B.png,B,a medium black triangle with four notches at the center.
+28,/home/work/yaiq/datasets/MENSA/train/Q28/C.png,C,a large black triangle with a small black bar at the bottom - left.
+28,/home/work/yaiq/datasets/MENSA/train/Q28/D.png,D,a large black triangle at the top - center and inside - bottom triangle is a small black line.
+28,/home/work/yaiq/datasets/MENSA/train/Q28/E.png,E,a medium black line at the top - left and bottom - right.
+28,/home/work/yaiq/datasets/MENSA/train/Q28/F.png,F,"three objects : a medium black triangle at top - left, a medium black line at bottom - right"
+29,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q29/q0.jpg,q0,"a vertical line with three squares, a vertical line with one square at the top, a vertical line"
+29,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q29/q1.jpg,q1,"three objects : a medium black line at the top, a small black square at the bottom, a"
+29,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q29/q2.jpg,q2,"a vertical line with three squares ; one black square at the bottom, one black square at the bottom"
+29,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q29/q3.jpg,q3,a vertical line with a square at the bottom and inside at the bottom. the square is positioned near
+29,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q29/q4.jpg,q4,"a medium black vertical line with a small white square at the top, and a small black square at"
+29,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q29/q5.jpg,q5,"a vertical line from the top to the bottom, with three squares and a vertical line at the bottom"
+29,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q29/q6.jpg,q6,"split by 3 rays from the center, a black square at bottom, a black square at bottom,"
+29,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q29/q7.jpg,q7,"a vertical line with three squares at the top, a vertical line with three squares at the bottom,"
+29,/home/work/yaiq/datasets/MENSA/train/Q29/A.png,A,"a vertical line with three squares at the bottom, a vertical line with three squares at the bottom."
+29,/home/work/yaiq/datasets/MENSA/train/Q29/B.png,B,"a large black line at the bottom, a small black square at the bottom, a small black square"
+29,/home/work/yaiq/datasets/MENSA/train/Q29/C.png,C,"a medium black square at the bottom, a medium black square at the bottom, and a medium black"
+29,/home/work/yaiq/datasets/MENSA/train/Q29/D.png,D,"a medium black line at the top, a medium white square at the bottom, a medium black square"
+29,/home/work/yaiq/datasets/MENSA/train/Q29/E.png,E,"three objects : a vertical black line at the top, a vertical black line at the bottom, and"
+29,/home/work/yaiq/datasets/MENSA/train/Q29/F.png,F,"three objects : a vertical line with three squares at the top, a vertical line with three squares at"
+30,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q30/q0.jpg,q0,"two objects : a black vertical line with two small black circles at the top, and a small black"
+30,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q30/q1.jpg,q1,"a black line with two notches at the top, a small black circle at the top, and"
+30,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q30/q2.jpg,q2,"three objects : one medium black square at the top, one medium black square at the bottom, and"
+30,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q30/q3.jpg,q3,"three objects : a medium black square at top, a small black circle at bottom, a small black"
+30,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q30/q4.jpg,q4,"a black line with two small black circles at the top, a vertical black line with two small black"
+30,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q30/q5.jpg,q5,"a medium black vertical line with two squares at the top and bottom, separated by a vertical line with"
+30,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q30/q6.jpg,q6,"a black line with one notch at the top, a small black circle at the top, and a"
+30,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q30/q7.jpg,q7,"three objects : one medium black square at the top - left, one medium black square at the top"
+30,/home/work/yaiq/datasets/MENSA/train/Q30/A.png,A,"3 objects : a black circle at top - center, circle at top - center, square at top"
+30,/home/work/yaiq/datasets/MENSA/train/Q30/B.png,B,"three objects : a black circle at top - center, two squares at top - right, and one"
+30,/home/work/yaiq/datasets/MENSA/train/Q30/C.png,C,"a black and white image of a vertical line with three circles at the top, one at the top"
+30,/home/work/yaiq/datasets/MENSA/train/Q30/D.png,D,"three objects : a black vertical line with a circle at the top, a small black circle at the"
+30,/home/work/yaiq/datasets/MENSA/train/Q30/E.png,E,"a black cross with two squares at the top, two small black circles at the bottom, and one"
+30,/home/work/yaiq/datasets/MENSA/train/Q30/F.png,F,"a black line with three squares, a circle at top, a square at bottom, a square at"
+31,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q31/q0.jpg,q0,"3 times 3 sub - blocks with 3 objects : a black square at the left - bottom, a"
+31,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q31/q1.jpg,q1,"3 times 3 sub - blocks with 1 object : a black square at the bottom - left, a"
+31,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q31/q2.jpg,q2,"3 times 3 sub - blocks with 4 objects : a large black square at the center - right,"
+31,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q31/q3.jpg,q3,"3 times 3 sub - blocks with 2 objects : a black square at the top - left, a"
+31,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q31/q4.jpg,q4,"3 times 3 sub - blocks with 3 objects : a large black square at the center, four small"
+31,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q31/q5.jpg,q5,a large black square with six small white squares arranged in a 3x3 grid.
+31,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q31/q6.jpg,q6,"3 times 3 sub - blocks with 4 objects : all are medium white squares, arranged in a 3"
+31,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q31/q7.jpg,q7,a large black building with three small white squares at the top and bottom.
+31,/home/work/yaiq/datasets/MENSA/train/Q31/A.png,A,"3 times 3 sub - blocks with 6 objects : a black square at the top - left, a"
+31,/home/work/yaiq/datasets/MENSA/train/Q31/B.png,B,3 times 3 sub - blocks with 8 objects ; all are medium white squares ; arranged in a 3
+31,/home/work/yaiq/datasets/MENSA/train/Q31/C.png,C,3 times 3 sub - blocks with 8 objects ; all are medium white squares ; arranged in a 3
+31,/home/work/yaiq/datasets/MENSA/train/Q31/D.png,D,"a large black and white square at the top - left, bottom - left, and bottom - right"
+31,/home/work/yaiq/datasets/MENSA/train/Q31/E.png,E,"3 times 3 sub - blocks with 6 objects : a black square at the top - left, a"
+31,/home/work/yaiq/datasets/MENSA/train/Q31/F.png,F,3 times 3 sub - blocks with 6 objects : a black and white grid at the center.
+32,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q32/q0.jpg,q0,"3 objects : a large black square at the center, a small black circle at the top, and"
+32,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q32/q1.jpg,q1,"3 objects : a medium black square at center, a small black circle inside the square at top,"
+32,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q32/q2.jpg,q2,"a small black circle at the top - center and a large black square at the bottom - center,"
+32,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q32/q3.jpg,q3,"three objects : one medium black circle at the top, one medium black circle at the bottom, and"
+32,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q32/q4.jpg,q4,3 objects : 3 circles and 2 squares ; black color ; medium size ; three squares with one circle
+32,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q32/q5.jpg,q5,"three objects : a small black circle at top, a small black circle at center, and two medium"
+32,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q32/q6.jpg,q6,"two objects : a small black circle at the center, and a small black square at the bottom -"
+32,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q32/q7.jpg,q7,"two objects : a small black circle at the top, a small black circle at the bottom, and"
+32,/home/work/yaiq/datasets/MENSA/train/Q32/A.png,A,"a black line with a horizontal line and a medium black circle at the bottom, separated by a horizontal"
+32,/home/work/yaiq/datasets/MENSA/train/Q32/B.png,B,"3 objects : a large black rectangle at the center, a small black circle inside the circle at"
+32,/home/work/yaiq/datasets/MENSA/train/Q32/C.png,C,"3 times 3 sub - blocks with 4 objects : a black hollow circle at the left, a black"
+32,/home/work/yaiq/datasets/MENSA/train/Q32/D.png,D,"3 times 3 sub - blocks with 3 objects : a small black circle at the top - left,"
+32,/home/work/yaiq/datasets/MENSA/train/Q32/E.png,E,"two objects : a medium black line with two medium black circles on it, one at the top and"
+32,/home/work/yaiq/datasets/MENSA/train/Q32/F.png,F,"two objects : a medium black square with a black circle inside at the top, and a medium black"
+33,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q33/q0.jpg,q0,a medium black triangle with two notches at the center.
+33,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q33/q1.jpg,q1,"three black triangles with a vertical line at the top, a vertical line at the bottom, and a"
+33,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q33/q2.jpg,q2,"split by 3 rays from the center, a black triangle with three notches at top, a black"
+33,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q33/q3.jpg,q3,two black triangles with vertical lines in the top - left and top - right.
+33,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q33/q4.jpg,q4,"split by 3 rays from the center, a black triangle with two notches at the top and a"
+33,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q33/q5.jpg,q5,a medium black triangle with three notches at the top center.
+33,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q33/q6.jpg,q6,two black triangles with white lines split by a horizontal line.
+33,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q33/q7.jpg,q7,a medium black triangle with two notches at the center.
+33,/home/work/yaiq/datasets/MENSA/train/Q33/A.png,A,"two black triangles with vertical lines in the middle. the top triangle is triangle - like, and the"
+33,/home/work/yaiq/datasets/MENSA/train/Q33/B.png,B,"a medium black triangle with three notches at the top, split by a horizontal line from the center"
+33,/home/work/yaiq/datasets/MENSA/train/Q33/C.png,C,two black triangles with vertical lines in the middle.
+33,/home/work/yaiq/datasets/MENSA/train/Q33/D.png,D,two black triangles ; large triangle at top - right and large triangle at bottom - left.
+33,/home/work/yaiq/datasets/MENSA/train/Q33/E.png,E,two black triangles split by a horizontal line. the triangle is large and has two notches at the
+33,/home/work/yaiq/datasets/MENSA/train/Q33/F.png,F,two black triangles with vertical lines in the top - left and bottom - right.
+34,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q34/q0.jpg,q0,"three objects : a medium black circle at the top, a small white circle at the bottom, a"
+34,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q34/q1.jpg,q1,"split by 3 rays from the center, a small black circle at the left - center, a small"
+34,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q34/q2.jpg,q2,"split by 3 rays from the center, a black line with two notches at the top, two"
+34,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q34/q3.jpg,q3,"split by 3 rays from the center, a medium black circle at the top, a small black circle"
+34,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q34/q4.jpg,q4,"three objects : one medium black circle at the left - bottom, one medium black circle at the right"
+34,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q34/q5.jpg,q5,"two objects : a medium black circle at the top, a medium black circle at the left - bottom"
+34,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q34/q6.jpg,q6,"four objects : one medium black circle at the top, one medium black circle at the bottom, one"
+34,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q34/q7.jpg,q7,"split by 3 rays from the center, a black line with two small hollow circles at the top,"
+34,/home/work/yaiq/datasets/MENSA/train/Q34/A.png,A,"a medium black circle at center, a small black hollow circle at bottom, a small black hollow circle"
+34,/home/work/yaiq/datasets/MENSA/train/Q34/B.png,B,"three objects : a medium black circle at the top, a medium black circle at the left - bottom"
+34,/home/work/yaiq/datasets/MENSA/train/Q34/C.png,C,"split by 3 rays from the center, a black circle at the left - bottom, a black hollow"
+34,/home/work/yaiq/datasets/MENSA/train/Q34/D.png,D,"a medium black circle at the top, a medium black circle at the bottom, two small black hollow"
+34,/home/work/yaiq/datasets/MENSA/train/Q34/E.png,E,"split by 3 rays from the center, a black hollow circle at the center, a black hollow circle"
+34,/home/work/yaiq/datasets/MENSA/train/Q34/F.png,F,"split by 3 rays from the center, a black circle at center, a black line at left -"
+35,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q35/q0.jpg,q0,a medium black v shape at the center.
+35,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q35/q1.jpg,q1,a large white square at the center.
+35,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q35/q2.jpg,q2,a black line at the top - center and a black line at the top - center.
+35,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q35/q3.jpg,q3,two black lines split by a horizontal line. the lines are diagonally short and are positioned at the
+35,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q35/q4.jpg,q4,a medium black triangle with a notch at the center.
+35,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q35/q5.jpg,q5,a medium black triangle with three notches at the center.
+35,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q35/q6.jpg,q6,two black lines ; one small line at top - right and one small line at bottom - left.
+35,/home/work/yaiq/YAIQ/workspace/SM/dataset_cut/MENSA/train/Q35/q7.jpg,q7,"three objects : a medium black diamond at the center, and two medium black lines intersecting it around it"
+35,/home/work/yaiq/datasets/MENSA/train/Q35/A.png,A,a large white square at the center.
+35,/home/work/yaiq/datasets/MENSA/train/Q35/B.png,B,a medium black hollow square at the center with two notches at the top and center.
+35,/home/work/yaiq/datasets/MENSA/train/Q35/C.png,C,a medium black triangle at the center.
+35,/home/work/yaiq/datasets/MENSA/train/Q35/D.png,D,"a medium black line at the center, at the top - left, at the top - right,"
+35,/home/work/yaiq/datasets/MENSA/train/Q35/E.png,E,a medium black triangle at the center.
+35,/home/work/yaiq/datasets/MENSA/train/Q35/F.png,F,a medium black square with two diagonal lines at the center.
