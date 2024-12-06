@@ -4,9 +4,9 @@
 <img src="assets/YAIQ_banner.webp" alt="Banner" width="400">
 
 ### Team Members
-🥸 **Jimin Lee**(YAI 11th)   
-🥸 **Sunmin Hwang**(YAI 14th)  
-🥸 **Beomsik Cho**(YAI 11th)  
+🥸 **Jimin Lee** (YAI 11th)   
+🥸 **Soonmin Hwang** (YAI 14th)  
+🥸 **Beomsik Cho** (YAI 11th)  
 🥸 **Yoonju Jung** (YAI 14th)  
 
 ## Overview
